@@ -1,0 +1,6 @@
+[submodule "Book-Ecommerce"]
+	path = Book-Ecommerce
+	url = https://github.com/kabutoshinki/Book-Ecommerce
+[submodule "Book-Ecommerce-Client"]
+	path = Book-Ecommerce-Client
+	url = https://github.com/kabutoshinki/Book-Ecommerce-Client
